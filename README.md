@@ -2,9 +2,7 @@
 
 My name is Fauzer Junior, today I live in Campinas / SP 🇧🇷. I have been working with Web Development since 2016 and currently work as Frontend Developer. I am passionate about development and have been working on my skills with NodeJS, ReactJS and React Native.
 
-[![Web Developer](https://imgur.com/dktIrkp.png)]()
-
-<img src="https://imgur.com/dktIrkp.png" width="400" />
+<img src="https://imgur.com/dktIrkp.png" width="650" />
 
 ### Frontend developer and graduate in information systems
 
