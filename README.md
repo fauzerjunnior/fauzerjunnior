@@ -4,7 +4,7 @@ My name is Fauzer Junior, today I live in Campinas / SP 🇧🇷. I have been wo
 
 [![Web Developer](https://imgur.com/dktIrkp.png)]()
 
-<img src="https://imgur.com/dktIrkp.png" height="100" width="100" />
+<img src="https://imgur.com/dktIrkp.png" width="400" />
 
 ### Frontend developer and graduate in information systems
 
