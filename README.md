@@ -8,7 +8,6 @@ My name is Fauzer Junior, today I live in Campinas / SP 🇧🇷. I have been wo
 ### Frontend developer and graduate in information systems
 
 - 🎓 I'm currently at last semester of Information systems degree
-- 💻 Currently I work as a frontend developer at Logicalis BR 
 
 ### Find me! 🌎
 
