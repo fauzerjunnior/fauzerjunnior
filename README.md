@@ -8,9 +8,9 @@ I am passionate about development and am pleased to work with Node JS, React JS 
 
 ### Frontend developer and graduate in information systems
 
-- 🎓 I am studying the last semester of Information Systems.
-- 👓 I am always working on study and personal projects for practical and technical development.
-- 🎸 In my spare time I like to play instruments, play games, study programming and go out with my family.
+<p>🎓 &nbsp; I am studying the last semester of Information Systems.</p>
+<p>👓 &nbsp; I am always working on study and personal projects for practical and technical development.</p>
+<p>🎸 &nbsp; In my spare time I like to play instruments, play games, study programming and go out with my family.</p>
 
 ### Find me! 🌎
 
