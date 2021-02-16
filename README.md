@@ -4,7 +4,7 @@ My name is Fauzer Junior, today I live in Campinas / SP 🇧🇷. I have been in
 I am passionate about development and am pleased to work with Node JS, React JS and React Native.
 
 
-<img src="https://imgur.com/dktIrkp.png" width="650" />
+<img src="https://imgur.com/ybkjsUJ.png" width="650" />
 
 ### Frontend developer and graduate in information systems
 
