@@ -1,13 +1,16 @@
 ### Welcome! 🤟
 
-My name is Fauzer Junior, today I live in Campinas / SP 🇧🇷. I have been working with Web Development since 2016 and currently work as Frontend Developer. I am passionate about development and have been working on my skills with NodeJS, ReactJS and React Native.
+My name is Fauzer Junior, today I live in Campinas / SP 🇧🇷. I have been in the web development area for 6 years and since 2019 I have worked more precisely as a frontend developer.
+I am passionate about development and am pleased to work with Node JS, React JS and React Native.
 
 
 <img src="https://imgur.com/dktIrkp.png" width="650" />
 
 ### Frontend developer and graduate in information systems
 
-- 🎓 I'm currently in the last steps towards completion of the Barchelor of Information Systems.
+- 🎓 I am studying the last semester of Information Systems.
+- 👓 I am always working on study and personal projects for practical and technical development.
+- 🎸 In my spare time I like to play instruments, play games, study programming and go out with my family.
 
 ### Find me! 🌎
 
