@@ -1,12 +1,12 @@
 ### Welcome! 🤟
 
-My name is Fauzer Junior, today I live in Campinas / SP 🇧🇷. I have been in the web development area for 6 years and since 2019 I have worked more precisely as a frontend developer.
-I am passionate about programming and am pleased to work with Node, React and React Native.
+I'm a Frontend Developer with expertise in React.js and Typescript for over 5 years, focusing on code quality and rigorous testing practices, using tools such as Jest, React Testing Library and Cypress.
+Quality code is a priority, regularly applying concepts of design patterns, clean architecture, clean code and SOLID to assist in the construction of clean, organized and well-structured code.
 
 ### Frontend developer and graduating in information systems
 
-<p>🎓 &nbsp; I am studying the last semester of Information Systems.</p>
-<p>👓 &nbsp; I am always working on study and personal projects for practical and technical development.</p>
+<p>🎓 &nbsp; I have a degree in Information Systems.</p>
+<p>👓 &nbsp; I am always working and study on personal projects for practical and technical development.</p>
 <p>🎸 &nbsp; In my spare time I like to play instruments, play games, study programming and go out with my family.</p>
 
 ### Find me! 🌎
