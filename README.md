@@ -1,6 +1,7 @@
 ### Welcome! 🤟
 
 I'm a Frontend Developer with expertise in React.js and Typescript for over 5 years, focusing on code quality and rigorous testing practices, using tools such as Jest, React Testing Library and Cypress.
+
 Quality code is a priority, regularly applying concepts of design patterns, clean architecture, clean code and SOLID to assist in the construction of clean, organized and well-structured code.
 
 ### Frontend developer and graduating in information systems
